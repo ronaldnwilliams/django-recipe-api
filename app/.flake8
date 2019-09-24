@@ -4,3 +4,6 @@ exclude =
   __pychache__,
   manage.py,
   settings.py
+ignore =
+  # E501 line too long
+  E501
